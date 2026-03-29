@@ -74,7 +74,3 @@ Concepts used:
 
 ---
 
-## ⚡ Fun Fact
-
-Debugging sometimes takes hours…
-and the problem is just **one missing semicolon** 😅
