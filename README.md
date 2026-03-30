@@ -1,76 +1,155 @@
-<div align="center">
+<!-- HEADER -->
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mohamad%20Tawelah&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi 👋 I'm MohamadTawelah
+<h1 align="center">👋 Hello, I'm MohamadTawelah</h1>
 
-💻 Computer Engineering Student
-🚀 Passionate about Programming and Software Development
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 Computer Engineering student
-* 💻 Focused mainly on **C++ Programming**
-* 📚 Currently improving my knowledge in **Data Structures & Algorithms**
-* 🏗 Building projects to practice real programming concepts
-* 🌱 Learning version control using **Git & GitHub**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms%20%7C%20SQL%20Server;OOP%20%7C%20Data%20Structures;Algorithms%20%26%20Problem%20Solving;Future%20Software%20Developer"/>
+</p>
 
 ---
 
-## 🛠 Languages & Tools
+# 👨‍💻 About Me
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat\&logo=windows\&logoColor=white)
+🎓 **Computer Engineering Student**
 
----
+🇸🇾 From **Syria**
 
-## 📂 Projects
+💻 Passionate about **Software Development**
 
-### 🏦 Bank Management System (C++)
+📚 Focused on :
 
-Console-based banking system developed using **C++**.
+🔹 C++
+🔹 Object-Oriented Programming
+🔹 Data Structures
+🔹 Algorithms & Problem Solving
 
-Features:
+📈 Currently expanding into:
 
-* User login system
-* Account management
-* Deposit & withdraw operations
-* Transaction records
-* File-based data storage
+🔹 C#
+🔹 .NET Development
+🔹 Windows Forms
+🔹 SQL Server
 
-Concepts used:
-
-* Object-Oriented Programming (OOP)
-* File Handling
-* Data Structures basics
+📍 Following **ProgrammingAdvices Roadmap**
+👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
 
 ---
 
-## 🎯 Currently Learning
-
-* Advanced **C++**
-* **Data Structures**
-* **Algorithms**
-* Better workflow with **Git**
-
----
-
-## 📊 GitHub Stats
+# 🛠 Skills & Tools
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
 </p>
 
 ---
+
+<p align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# 📊 GitHub Metrics Dashboard
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### ⭐ Bank System & Currency Exchange
+
+Complete banking system built using OOP.
+
+### 📦 Dynamic Array Class
+
+Custom implementation of a dynamic array in C++.
+
+### 🔗 Double Linked List Class
+
+Full implementation of a double linked list data structure.
+
+### 📚 String Library
+
+Custom string utilities using OOP.
+
+### 📅 Date & Period Libraries
+
+Libraries for managing dates and periods.
+
+---
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="https://www.facebook.com/mohamad.tawelah">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+</p>
+
+---
+
+```cpp
+// Focused on mastering Software Development
+
+class MohamadTawelah
+{
+public:
+
+ string university = "Computer Engineering";
+
+ string country = "Syria";
+
+ string track = "Future Software Developer";
+
+ string passion = "Problem Solving & Building Systems";
+
+ void sayHi()
+ {
+     cout << "Thanks for visiting my profile 🚀";
+ }
+};
+```
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
