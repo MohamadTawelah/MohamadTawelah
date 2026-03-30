@@ -64,7 +64,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MohamadTawelah&theme=tokyonight"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamadTawelah&theme=tokyo-night"/>
 </p>
 
 ---
@@ -81,11 +81,11 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamadTawelah&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamadTawelah&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamadTawelah&theme=tokyonight"/>
 
 </p>
 
@@ -95,7 +95,8 @@
 
 ### ⭐ Bank System & Currency Exchange
 
-Complete banking system built using OOP.
+Complete banking system built using Object-Oriented Programming (OOP).
+[View Project on GitHub](https://github.com/MohamadTawelah/BankSystem)
 
 ### 📦 Dynamic Array Class
 
@@ -122,7 +123,17 @@ Libraries for managing dates and periods.
 <a href="https://www.facebook.com/mohamad.tawelah">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
+<a href="mailto:mohamadtawelah@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
+<a href="https://wa.me/0937229649">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://t.me/Mohamad_tawelah">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
+</a>
 </p>
 
 ---
