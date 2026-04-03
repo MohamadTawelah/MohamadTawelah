@@ -101,8 +101,9 @@ Custom implementation of a dynamic array in C++.
 
 ### 🔗 Double Linked List Class
 
-Full implementation of a double linked list data structure.
+🔗 [Double Linked List Class](https://github.com/MohamadTawelah/Double_Linked_List.cpp)
 
+Full implementation of a doubly linked list data structure.
 ### 📚 String Library
 
 Custom string utilities using OOP.
