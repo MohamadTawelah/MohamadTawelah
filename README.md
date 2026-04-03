@@ -106,7 +106,11 @@ Custom implementation of a dynamic array in C++.
 Full implementation of a doubly linked list data structure.
 ### 📚 String Library
 
-Custom string utilities using OOP.
+🔗 [String Library C++](https://github.com/MohamadTawelah/String_Library_cpp)
+
+Custom C++ string utilities built with object-oriented design for versatile text processing.
+
+Full-featured string class with functions for text transformation, counting letters/words, trimming, splitting/joining, replacing, reversing, and punctuation removal. Ideal for C++ projects requiring robust string manipulation.
 
 ### 📅 Date & Period Libraries
 
