@@ -95,9 +95,9 @@
 Complete banking system built using Object-Oriented Programming (OOP).
 [View Project on GitHub](https://github.com/MohamadTawelah/BankSystem)
 
-### 📦 Dynamic Array Class
-
-Custom implementation of a dynamic array in C++.
+📦 Dynamic Array Class  
+Custom implementation of a dynamic array in C++.  
+[View Project on GitHub](https://github.com/MohamadTawelah/Dynamic-Array-Class)
 
 ### 🔗 Double Linked List Class
 
