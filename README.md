@@ -112,10 +112,9 @@ Custom C++ string utilities built with object-oriented design for versatile text
 
 Full-featured string class with functions for text transformation, counting letters/words, trimming, splitting/joining, replacing, reversing, and punctuation removal. Ideal for C++ projects requiring robust string manipulation.
 
-### 📅 Date & Period Libraries
-
-Libraries for managing dates and periods.
-
+### 📅 Date & Period Libraries  
+Libraries for managing dates and periods.  
+[View Project on GitHub](https://github.com/MohamadTawelah/Date-and-Period-Libraries)
 ---
 
 # 📬 Contact Me
